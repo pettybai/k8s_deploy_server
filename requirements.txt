@@ -1,0 +1,6 @@
+tornado==6.0.3
+kubernetes==10.0.1
+requests==2.22.0
+pymysql==0.9.3
+elasticsearch==7.7.0
+redis==3.3.11
